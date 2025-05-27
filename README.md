@@ -46,5 +46,23 @@ The proposed approach demonstrates improved accuracy and robustness in detecting
 
 > This research explores the implementation of advanced face detection techniques for smart surveillance systems. By analyzing current algorithms and experimenting with enhanced machine learning models, this study aims to address common limitations such as false positives, real-time detection latency, and low-light performance. Through rigorous testing and evaluation, the project proposes an optimized face detection pipeline suitable for modern security infrastructures.
 
+ 🚀 How to Run
+
+1. Clone the repository:
+
+2. Open the `Facedetection_Data_Analysis.ipynb` in Jupyter Notebook.
+3. Run all cells to load data, apply preprocessing, and visualize detection results.
+
+---
+
+ 📜 License
+
+This project and its contents are © Muhammad Noman, 2025. Unauthorized copying or reproduction of the dissertation is prohibited without written permission.
+
+---
+
+ 📧 Contact
+
+For questions, collaborations, or citation requests, please contact me via GitHub or email.
 
 
